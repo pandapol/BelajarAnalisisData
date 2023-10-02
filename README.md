@@ -1,2 +1,2 @@
-# Deployed dashboard URL
+# Deployed URL
 (https://submissionarviramadhan.streamlit.app/)
